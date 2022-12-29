@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.principal{
+  
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.container{
+  position: relative;
+  min-width: 800px;
+  margin: 0 5%;
+  height: 100%;
+}
+
+button{
+
+width: 164px;
+height: 33px;
+border: 0.5px solid #c2bbbb;
+border-radius: 8px;
+}
+html{
+  height: 100%;
+}
+body{
+ height: 100%;
+  
+  background: linear-gradient(180deg, #204E58 0%, rgba(171, 182, 184, 0) 100%);
+}

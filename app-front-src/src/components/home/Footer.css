@@ -1,0 +1,32 @@
+footer{
+ 
+  bottom: 0;
+  height: 50px;
+}
+#rodape{
+ gap: 20px;
+ display: flex;
+ align-items: center;
+
+ 
+}
+#logorodape img {
+
+width: 27px;
+height: 26px;
+
+/*background: url(linkdth.png);*/
+border: 0.23px solid #BACDD2;
+border-radius: 3px;
+}
+#rodape p{
+
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #191818;
+
+}

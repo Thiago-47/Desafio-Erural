@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc152dc2.css",
+    "main.js": "/static/js/main.1aa83309.js",
+    "static/media/chamadadevideo.png": "/static/media/chamadadevideo.e8d2c85c2c73cee3879f.png",
+    "static/media/TELAPEQUENA.jpg": "/static/media/TELAPEQUENA.f2020e4d3125d3e29aff.jpg",
+    "static/media/setaenviar.png": "/static/media/setaenviar.2fb5c0c5dbeb9fd15d60.png",
+    "index.html": "/index.html",
+    "main.bc152dc2.css.map": "/static/css/main.bc152dc2.css.map",
+    "main.1aa83309.js.map": "/static/js/main.1aa83309.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc152dc2.css",
+    "static/js/main.1aa83309.js"
+  ]
+}

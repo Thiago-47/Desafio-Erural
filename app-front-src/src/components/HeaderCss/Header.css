@@ -1,0 +1,39 @@
+header{
+
+  top: 0;
+  height:197px;
+
+}
+
+#principalheader{
+ display: flex;
+ align-items: center;
+ 
+}
+
+#logo{
+
+  height: 104px;
+  width: 126px;
+  position: absolute;
+  left:0px;
+  
+  border-radius: 8px;
+  border: 0.25px;
+ 
+
+}
+#slogan{
+  
+ position:absolute;
+ height: 24px;
+ left: 136px;
+
+ color: #000;
+ font-family: 'Archivo';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 20px;
+ line-height: 22px;
+ 
+}

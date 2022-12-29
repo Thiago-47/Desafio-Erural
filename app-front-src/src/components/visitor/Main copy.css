@@ -1,0 +1,200 @@
+main{
+  
+  top: 197px;
+  bottom:50px;
+}
+
+#right{
+
+  gap:40px ;
+  position: absolute;
+  width: 325px;
+  right: 0;
+  top:0 ;
+  bottom: 0;
+  border-radius: 8px 8px 0 0;
+  background: beige;
+  
+  font-family: 'Poppins', sans-serif;
+
+ 
+}
+#left{
+  position: absolute;
+  width: calc(100% - 400px);
+  bottom: 0;
+  left: 0;
+  top: 0;
+  border-radius: 3px;
+  font-family: 'Poppins', sans-serif;
+ 
+  
+}
+#titulochat{
+  text-align: center;
+  margin-top: 5px;
+
+
+
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+
+
+
+color: #7C7373;
+}
+#imgpricipal{
+
+
+width: 100%;
+height: auto;
+right: 0;
+top: 0px;
+border-radius: 8px;
+
+}
+
+#msg{
+  position:absolute;
+  overflow-y:auto;
+  top: 43px;
+  bottom: 32px;
+  left: 0px;
+  right: 0px;
+  
+ 
+  
+}
+#batepapo{
+    
+    width: 100%;
+    height: auto;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 14px;
+    color: #000000;
+    background: yellow;
+    padding: 5px;
+
+
+
+color: #000000;
+}
+#buttonmensgem{
+  display: flex;
+  align-items: center;
+  width: 320px;
+  position: absolute;
+  left:4px;
+  padding: 5px;
+  right: 0;
+  bottom: 2px;
+  
+  border: 0.25px solid rgb(227, 227, 227);
+  border-radius: 5px;
+
+  background:#e4dbdb;
+
+}
+#buttonmensgem input{
+  display: flex;
+  width: 287px;
+  height:20px;
+  border: #7C7373;
+  padding: 5px;
+  
+}
+
+#setaimg{
+
+width: 17px;
+height: 16px;
+border-radius: 3px;
+}
+
+#video{
+  position: absolute;
+  width: 100%;
+  top: 0;
+  max-height: 100%;
+ 
+
+}
+#barraleft{
+  left: 0;
+  right: 400px;
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  position: absolute;
+ 
+  height: 31px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  
+ 
+}
+#barraleft button{
+
+  width: 80px;
+  height: 31px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 24px;
+  color: #191818;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(180deg, #DAF9E3 12.12%, rgba(255, 252, 249, 0) 100%);
+  border: 0.5px solid #9A8B8B;
+  border-radius: 8px
+  }
+  #barraleft span{
+      
+      float: right;
+      border-radius: 8px;
+      
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #191818;
+  
+  }
+  #barraleft input{
+  
+    float: right;
+    border-radius: 3px;
+    border-color: #c6d9c6;
+    
+  
+  }
+  #link{
+    display: flex;
+    gap: 3px;
+    padding: 4px;
+    align-items: center;
+    position: absolute;
+    right: 0;
+    height: 20px;
+  }
+  #link span{
+    font-size: 14px;
+  
+  }
+  .name{
+    color: red;
+  }
+  .mensag{
+    overflow:hidden ;
+    padding: 7px
+  }
+
+
+
+
+
